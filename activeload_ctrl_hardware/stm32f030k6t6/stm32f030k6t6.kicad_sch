@@ -6221,9 +6221,6 @@
 		(effects
 			(font
 				(size 2.54 2.54)
-				(thickness 0.508)
-				(bold yes)
-				(italic yes)
 			)
 			(justify left bottom)
 		)
@@ -6235,9 +6232,6 @@
 		(effects
 			(font
 				(size 2.54 2.54)
-				(thickness 0.508)
-				(bold yes)
-				(italic yes)
 			)
 			(justify left bottom)
 		)
@@ -6249,9 +6243,6 @@
 		(effects
 			(font
 				(size 2.54 2.54)
-				(thickness 0.508)
-				(bold yes)
-				(italic yes)
 			)
 			(justify left bottom)
 		)
@@ -6263,9 +6254,6 @@
 		(effects
 			(font
 				(size 2.54 2.54)
-				(thickness 0.508)
-				(bold yes)
-				(italic yes)
 			)
 			(justify left bottom)
 		)
@@ -6277,9 +6265,6 @@
 		(effects
 			(font
 				(size 2.54 2.54)
-				(thickness 0.508)
-				(bold yes)
-				(italic yes)
 			)
 			(justify left bottom)
 		)
@@ -8461,7 +8446,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "40eb7efd-d27d-4499-9567-1750d49ce9de")
-		(property "Reference" "C?"
+		(property "Reference" "C12"
 			(at 29.591 29.3116 0)
 			(effects
 				(font
@@ -8515,7 +8500,7 @@
 		(instances
 			(project "stm32f030k6t6"
 				(path "/d7d9441b-f478-4590-87f0-c9f097cf72ee"
-					(reference "C?")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -8529,10 +8514,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "46c925e9-0afa-4fc9-abb7-0e41f4cb8960")
-		(property "Reference" "U?"
-			(at 77.1241 86.8101 0)
+		(property "Reference" "U1"
+			(at 79.248 35.4217 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8541,7 +8525,7 @@
 			)
 		)
 		(property "Value" "STM32F030K6Tx"
-			(at 77.1241 89.2344 0)
+			(at 79.248 37.846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8676,7 +8660,7 @@
 		(instances
 			(project ""
 				(path "/d7d9441b-f478-4590-87f0-c9f097cf72ee"
-					(reference "U?")
+					(reference "U1")
 					(unit 1)
 				)
 			)
