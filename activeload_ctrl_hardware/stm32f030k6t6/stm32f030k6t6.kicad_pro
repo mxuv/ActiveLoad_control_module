@@ -592,7 +592,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "/mnt/Documents/Devices/ActiveLoad/ActiveLoadCtrl/activeload_ctrl_hardware/stm32f030k6t6/output/",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
     "spice_model_current_sheet_as_root": true,
